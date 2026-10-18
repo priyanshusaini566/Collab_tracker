@@ -59,7 +59,6 @@ npm run dev
 1. **Step 1: The Agile Kanban Board**
    - Click "Kanban Board" tab.
    - Drag or quick-move a card from *In Progress* to *Completed (Done)*.
-   - Show how the column counts update and confetti triggers.
 
 2. **Step 2: Granular Task Details & Subtasks**
    - Click any task card (e.g., *Gemini AI API Task Assistant*).
